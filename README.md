@@ -27,3 +27,6 @@ npm install
 ## 页面访问
 * 网站地址: http://localhost:8080<br>
 初始用户名密码：admin/123456
+
+
+能否提供下数据库表吗
